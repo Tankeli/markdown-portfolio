@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*hate this more than python*
+**same old mechanics**
+__annoying *self* referencial__
